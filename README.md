@@ -61,10 +61,10 @@ Running the project in memory you just need to download the source code from www
 The database can be created automatically using Entityframework.
 Running the project in a SQL Server database you need to follow the steps below:
 ```
-Open powershell and install a dotnet ef with the following command "dotnet tool install --global dotnet-ef"
-Change the String Connection in the appSettings
-Execute the following command to create the Migrations folder in the Arvato.DBAdapter (follow this step just if the folder does not exists) "dotnet ef Migrations add InitialCreation"
-Execute the following command to create a data structure in your database.
+1. Open powershell and install a dotnet ef with the following command "dotnet tool install --global dotnet-ef"
+2. Change the String Connection in the appSettings
+3. Execute the following command to create the Migrations folder in the Arvato.DBAdapter (follow this step just if the folder does not exists) "dotnet ef Migrations add InitialCreation"
+4. Execute the following command to create a data structure in your database "dotnet ef DataBase Update".
 ```
 
 ## 📌 Notes
