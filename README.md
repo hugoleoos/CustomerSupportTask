@@ -23,13 +23,15 @@ Another important point here is that I used fluent mapping and fluent validation
   - Exceptions
  
 * Arvato.Business
- This class library project is responsable for all business rules.
+ 
+This class library project is responsable for all business rules.
   - IoC / Dependency injection
   - Business rules
   - Logging
   - Error Handling
  
 * Arvato.DBAdapter
+
 This class library project  is the application repository.
   - Fluent Mapping
   - Entityframework
@@ -37,9 +39,11 @@ This class library project  is the application repository.
   - Dependency Injection
  
 * Arvato.Business.Test
-this class library project is responsable for unity tests. Here, I created some tests cases to test the business layer.
+
+This class library project is responsable for unity tests. Here, I created some tests cases to test the business layer.
 
 * Arvato.WebAPI
+
 This webApi project is restful API service with method to create new customer support contact and get customer support contact by ID.
 
 ### 📄 FrontEnd
@@ -47,11 +51,13 @@ This webApi project is restful API service with method to create new customer su
 On the frontend, a form was created with the fields first and last name, email, phone, number, type of inquiry, a description of the support issue and an agreement checkbox. The frontend layer it validates if the mandatory fields are filled and sends these fields to the backend.
 
 * ArvatoFront.ArvatoApi.Adapter
+
 This project is responsible for making requests in the backend.
   - Dependency Injection
   - Refit
 
-* ArvatoFront.
+* ArvatoFront
+
 This project is responsible for displaying the fields (view) first and last name, email, phone, number, type of inquiry, a description of the support issue and an agreement checkbox, for the user to fill in the information and create the customer support contact. 
 As in the backend layer, this project also validates the required fields.
  - bootstrap
