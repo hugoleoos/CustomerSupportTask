@@ -14,6 +14,7 @@ On the backend I used domain driven design principle and code first model, once 
 Using this approach, I created five Projects. Follow below some their characteristics:
 
 * Arvato.Domain
+
 This class library project is responsable for the application domain. 
 Another important point here is that I used fluent mapping and fluent validation applying the "Single Responsibility" principle of SOLID where my domain classe (CustomerSupport) is responsible only by domain.
   - CodeFirst
@@ -23,17 +24,17 @@ Another important point here is that I used fluent mapping and fluent validation
  
 * Arvato.Business
  This class library project is responsable for all business rules.
- - IoC / Dependency injection
- - Business rules
- - Logging
- - Error Handling
+  - IoC / Dependency injection
+  - Business rules
+  - Logging
+  - Error Handling
  
 * Arvato.DBAdapter
 This class library project  is the application repository.
- - Fluent Mapping
- - Entityframework
- - Migrations
- - Dependency Injection
+  - Fluent Mapping
+  - Entityframework
+  - Migrations
+  - Dependency Injection
  
 * Arvato.Business.Test
 this class library project is responsable for unity tests. Here, I created some tests cases to test the business layer.
@@ -47,16 +48,16 @@ On the frontend, a form was created with the fields first and last name, email, 
 
 * ArvatoFront.ArvatoApi.Adapter
 This project is responsible for making requests in the backend.
- - Dependency Injection
- - Refit
+  - Dependency Injection
+  - Refit
 
 * ArvatoFront.
 This project is responsible for displaying the fields (view) first and last name, email, phone, number, type of inquiry, a description of the support issue and an agreement checkbox, for the user to fill in the information and create the customer support contact. 
 As in the backend layer, this project also validates the required fields.
-- bootstrap
-- HTML
-- CSS
-- Javascript
+ - bootstrap
+ - HTML
+ - CSS
+ - Javascript
 
 ## ⚙️ Running the project 
 This project is prepared to run both in memory and in a SQL Server database.
