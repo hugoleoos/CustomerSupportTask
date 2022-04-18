@@ -55,7 +55,7 @@ As in the backend layer, this project also validates the required fields.
 This project is prepared to run both in memory and in a SQL Server database.
 
 ### 📦 In Memory
-Running the project in memory you just need to download the source code from www.www.www.LINK and run it in visual studio.
+Running the project in memory you just need to download the source code from https://github.com/hugoleoos/CustomerSupportTask and run it in visual studio.
 
 ### 🛠️ In Database
 The database can be created automatically using Entityframework.
