@@ -1,0 +1,101 @@
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.AssemblyReference.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.AssemblyInfoInputs.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.AssemblyInfo.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.CoreCompileInputs.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorAssemblyInfo.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorAssemblyInfo.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.exe
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.deps.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.runtimeconfig.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.runtimeconfig.dev.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ref\ArvatoFront.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.Views.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.Views.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Refit.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\scopedcss\bundle\ArvatoFront.styles.css
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\staticwebassets\ArvatoFront.StaticWebAssets.Manifest.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.TagHelpers.input.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.TagHelpers.output.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorCoreGenerate.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorTargetAssemblyInfo.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorTargetAssemblyInfo.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.Views.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.CopyComplete
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ref\ArvatoFront.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.genruntimeconfig.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.exe
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.deps.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.runtimeconfig.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.runtimeconfig.dev.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ref\ArvatoFront.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.Views.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.Views.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Refit.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.AssemblyReference.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.AssemblyInfoInputs.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.AssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorAssemblyInfo.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorAssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\staticwebassets\ArvatoFront.StaticWebAssets.Manifest.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\staticwebassets\ArvatoFront.StaticWebAssets.xml
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\scopedcss\bundle\ArvatoFront.styles.css
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.TagHelpers.input.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.TagHelpers.output.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorCoreGenerate.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorTargetAssemblyInfo.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.RazorTargetAssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.Views.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.csproj.CopyComplete
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ref\ArvatoFront.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront\obj\Debug\net5.0\ArvatoFront.genruntimeconfig.cache

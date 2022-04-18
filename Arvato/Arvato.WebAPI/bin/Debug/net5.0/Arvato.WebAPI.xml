@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Arvato.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:Arvato.WebAPI.Controllers.CustomerSupportController.CreateCustomerSupportAsync(Arvato.WebAPI.Dtos.CustomerSupportPost)">
+            <summary>
+                Creates a Customer Support
+            </summary>
+            <param name="customerSupportPost">
+                Customer Support information
+            </param>
+            <returns>
+                Customer's id
+            </returns>
+        </member>
+        <member name="M:Arvato.WebAPI.Controllers.CustomerSupportController.GetCustomerSupportAsync(System.Int32)">
+            <summary>
+                Gets customer's data by id
+            </summary>
+            <param name="id">
+                Customer's id
+            </param>
+            <returns>
+                Customer's data
+            </returns>
+        </member>
+        <member name="T:Arvato.WebAPI.Dtos.CustomerSupportDto">
+            <summary>
+            CustomerSupportDto
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.Email">
+            <summary>
+            Customer Email to open a support contact
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.FirstName">
+            <summary>
+            Customer first name
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.LastName">
+            <summary>
+            Customer lst name
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.Phone">
+            <summary>
+            Customer Phone
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.Number">
+            <summary>
+            Customer number
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.Inquiry">
+            <summary>
+            Type of Inquiry to a support contact
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.DescriptionSupport">
+            <summary>
+            Description to open a support contact
+            </summary>
+        </member>
+        <member name="P:Arvato.WebAPI.Dtos.CustomerSupportDto.Aggreement">
+            <summary>
+            term of agreement to open a support contact
+            </summary>
+        </member>
+        <member name="T:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry">
+            <summary>
+            Type of Inquiry to a support contact
+             </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.ApplyForaJob">
+            <summary>
+            Apply for as job
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.BookSiteVisit">
+            <summary>
+            Book a site visit
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.DiscussBackOffice">
+            <summary>
+            Discuss a back office project
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.DiscussCustomerChallenge">
+            <summary>
+            Discuss a customer service challenge
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.ContactHRTeam">
+            <summary>
+            Contact the HR team
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.OfferSupplierServices">
+            <summary>
+            Offer supplier services
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.RequestPilot">
+            <summary>
+            Request a pilot
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.SpeakCommunicationsTeam">
+            <summary>
+            Speak to your communications teams
+            </summary>
+        </member>
+        <member name="F:Arvato.WebAPI.Dtos.CustomerSupportDto.EInquiry.Other">
+            <summary>
+            Other
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRqHPoaRGcl/YLkyuwCWGsxxvfmOn6FmPREkty3s0cPg+GS/8SMjtbJoX0XMME1ehcT3xqE8GTHJEGF9cm1qWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

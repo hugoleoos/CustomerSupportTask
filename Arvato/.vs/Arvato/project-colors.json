@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "449e7e35-bd96-4966-92df-90d1bd293286": {
+      "ProjectGuid": "449e7e35-bd96-4966-92df-90d1bd293286",
+      "DisplayName": "Arvato.WebAPI",
+      "ColorIndex": 0
+    },
+    "2d22a1ce-c1b5-408f-97f3-335e103f992f": {
+      "ProjectGuid": "2d22a1ce-c1b5-408f-97f3-335e103f992f",
+      "DisplayName": "Arvato.DBAdapter",
+      "ColorIndex": 1
+    },
+    "d6072d00-6a54-4665-8dd3-a914b886a908": {
+      "ProjectGuid": "d6072d00-6a54-4665-8dd3-a914b886a908",
+      "DisplayName": "Arvato.Domain",
+      "ColorIndex": 2
+    },
+    "cfada38a-ed07-41d6-b5c5-c97adcb97721": {
+      "ProjectGuid": "cfada38a-ed07-41d6-b5c5-c97adcb97721",
+      "DisplayName": "Arvato.Business.Test",
+      "ColorIndex": 3
+    },
+    "a5b0d21b-6814-4fc2-a71a-d684fe97fd73": {
+      "ProjectGuid": "a5b0d21b-6814-4fc2-a71a-d684fe97fd73",
+      "DisplayName": "Arvato.Business",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

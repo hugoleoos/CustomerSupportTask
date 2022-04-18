@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaLGSsxstUJ9+/Pb6dkPFcaO2dJvkqKnX30rD8cDDoGr0b0yIU2+7EdlfB8v+Pw9cPewkE7dzGy3QssnvfL1mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

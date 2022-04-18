@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.WebAPI\\Arvato.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj",
+        "projectName": "Arvato.Business",
+        "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj",
+        "packagesPath": "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hugo Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\Arvato.DBAdapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\Arvato.DBAdapter.csproj",
+        "projectName": "Arvato.DBAdapter",
+        "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\Arvato.DBAdapter.csproj",
+        "packagesPath": "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hugo Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj",
+        "projectName": "Arvato.Domain",
+        "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hugo Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.WebAPI\\Arvato.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.WebAPI\\Arvato.WebAPI.csproj",
+        "projectName": "Arvato.WebAPI",
+        "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.WebAPI\\Arvato.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hugo Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj": {
+                "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Business\\Arvato.Business.csproj"
+              },
+              "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\Arvato.DBAdapter.csproj": {
+                "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.DBAdapter\\Arvato.DBAdapter.csproj"
+              },
+              "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hugo Oliveira\\source\\repos\\Arvato\\Arvato.Domain\\Arvato.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

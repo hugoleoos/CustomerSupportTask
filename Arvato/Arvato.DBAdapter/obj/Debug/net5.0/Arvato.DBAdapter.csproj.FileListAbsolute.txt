@@ -1,0 +1,36 @@
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.AssemblyReference.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.AssemblyInfoInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.AssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.deps.json
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.runtimeconfig.json
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.runtimeconfig.dev.json
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\ref\Arvato.DBAdapter.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.CopyComplete
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\ref\Arvato.DBAdapter.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.genruntimeconfig.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.deps.json
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.runtimeconfig.json
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.runtimeconfig.dev.json
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\ref\Arvato.DBAdapter.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.DBAdapter.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.AssemblyReference.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.AssemblyInfoInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.AssemblyInfo.cs
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.csproj.CopyComplete
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\ref\Arvato.DBAdapter.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.DBAdapter\obj\Debug\net5.0\Arvato.DBAdapter.genruntimeconfig.cache

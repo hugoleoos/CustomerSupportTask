@@ -1,0 +1,24 @@
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.csproj.AssemblyReference.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.AssemblyInfoInputs.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.AssemblyInfo.cs
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.deps.json
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ref\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ref\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Cassi\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.deps.json
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ref\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\bin\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.csproj.AssemblyReference.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.AssemblyInfoInputs.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.AssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ref\ArvatoFront.ArvatoApi.Adapter.dll
+C:\Users\Hugo Oliveira\source\repos\ArvatoFront\ArvatoFront.ArvatoApi.Adapter\obj\Debug\net5.0\ArvatoFront.ArvatoApi.Adapter.pdb

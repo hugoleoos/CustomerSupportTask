@@ -1,0 +1,24 @@
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.csproj.AssemblyReference.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.AssemblyInfoInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.AssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.deps.json
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\bin\Debug\net5.0\ref\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\ref\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.deps.json
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\bin\Debug\net5.0\ref\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.csproj.AssemblyReference.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.AssemblyInfoInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.AssemblyInfo.cs
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\ref\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Domain\obj\Debug\net5.0\Arvato.Domain.pdb

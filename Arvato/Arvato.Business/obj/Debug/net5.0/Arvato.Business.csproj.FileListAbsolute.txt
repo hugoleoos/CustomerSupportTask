@@ -1,0 +1,30 @@
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.deps.json
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\ref\Arvato.Business.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.AssemblyReference.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.AssemblyInfoInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.AssemblyInfo.cs
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.CopyComplete
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\ref\Arvato.Business.dll
+C:\Users\Hugo Oliveira\source\repos\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.deps.json
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\ref\Arvato.Business.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Business.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Domain.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\bin\Debug\net5.0\Arvato.Domain.pdb
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.AssemblyReference.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.AssemblyInfoInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.AssemblyInfo.cs
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.CoreCompileInputs.cache
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.csproj.CopyComplete
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\ref\Arvato.Business.dll
+C:\Users\Cassi\Desktop\Arvato\Arvato.Business\obj\Debug\net5.0\Arvato.Business.pdb

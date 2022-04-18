@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "29p2G341gqDiEP8R/5MLMN6OZ+nSOwmYasjRZbJtfr/uZRESN2PbPKk1Q98Gn5+FrCAcm4Otz3fPoUK5TW+9fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo Oliveira\\source\\repos\\ArvatoFront\\ArvatoFront\\ArvatoFront.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\refit.httpclientfactory\\6.3.2\\refit.httpclientfactory.6.3.2.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Oliveira\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
