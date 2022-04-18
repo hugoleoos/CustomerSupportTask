@@ -16,10 +16,10 @@ Using this approach, I created five Projects. Follow below some their characteri
 * Arvato.Domain
 This class library project is responsable for the application domain. 
 Another important point here is that I used fluent mapping and fluent validation applying the "Single Responsibility" principle of SOLID where my domain classe (CustomerSupport) is responsible only by domain.
- - CodeFirst
- - Adapters (interface)
- - Fluent Validation
- - Exceptions
+  - CodeFirst
+  - Adapters (interface)
+  - Fluent Validation
+  - Exceptions
  
 * Arvato.Business
  
