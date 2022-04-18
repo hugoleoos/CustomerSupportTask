@@ -13,8 +13,7 @@ First of all, the approach I used to solve this task was to create five projects
 On the backend I used domain driven design principle and code first model, once it was a new project with no created database. So, in this project the idea was make the model first, then I create the database from it.
 Using this approach, I created five Projects. Follow below some their characteristics:
 
-* Arvato.Domain
-  This class library project is responsable for the application domain. 
+* Arvato.Domain - This class library project is responsable for the application domain. 
 Another important point here is that I used fluent mapping and fluent validation applying the "Single Responsibility" principle of SOLID where my domain classe (CustomerSupport) is responsible only by domain.
   - CodeFirst
   - Adapters (interface)
